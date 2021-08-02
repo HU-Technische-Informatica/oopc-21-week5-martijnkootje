@@ -1,2 +1,2 @@
 Om 3 peripherals aan te sturen heb je 2(miso, mosi) + 3(chip selects) pins nodig
-Q7 kan als een gpio gebruikt worden
+Q7 kan als een gpio pin gebruikt worden
